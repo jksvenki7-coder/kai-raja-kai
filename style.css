@@ -1,0 +1,12 @@
+body{
+font-family:Arial;
+text-align:center;
+background:#0f6b2f;
+color:white;
+}
+
+button{
+padding:10px 20px;
+font-size:18px;
+margin-top:20px;
+}
